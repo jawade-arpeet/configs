@@ -1,0 +1,45 @@
+{
+  "agent": {
+    "default_profile": "ask",
+    "default_model": {
+      "provider": "copilot_chat",
+      "model": "gpt-4.1"
+    },
+    "model_parameters": []
+  },
+  "auto_indent": true,
+  "auto_indent_on_paste": true,
+  "autosave": {
+    "after_delay": {
+      "milliseconds": 1000
+    }
+  },
+  "base_keymap": "Cursor",
+  "buffer_font_family": "MartianMono Nerd Font Mono",
+  "buffer_font_size": 13,
+  "buffer_font_weight": 400,
+  "close_on_file_delete": true,
+  "confirm_quit": false,
+  "enable_language_server": true,
+  "format_on_save": "on",
+  "jsx_tag_auto_close": {
+    "enabled": true
+  },
+
+  "preferred_line_length": 80,
+  "restore_on_startup": "none",
+  "soft_wrap": "preferred_line_length",
+  "ui_font_size": 13,
+  "ui_font_family": "MartianMono Nerd Font Mono",
+  "ui_font_weight": 500,
+  "use_autoclose": true,
+  "tab_size": 2,
+  "terminal": {
+    "font_family": "MartianMono Nerd Font Mono",
+    "font_size": 13,
+    "font_weight": 400
+  },
+
+  "theme": "Tokyo Night",
+  "vim_mode": true
+}
